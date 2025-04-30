@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Mercury",
+        "type": "Terrestrial",
+        "distance_from_sun_au": 0.39,
+        "is_habitable": false
+    },
+    {
+        "name": "Venus",
+        "type": "Terrestrial",
+        "distance_from_sun_au": 0.72,
+        "is_habitable": false
+    },
+    {
+        "name": "Earth",
+        "type": "Terrestrial",
+        "distance_from_sun_au": 1.00,
+        "is_habitable": true
+    },
+    {
+        "name": "Mars",
+        "type": "Terrestrial",
+        "distance_from_sun_au": 1.52,
+        "is_habitable": false
+    },
+    {
+        "name": "Jupiter",
+        "type": "Gas Giant",
+        "distance_from_sun_au": 5.20,
+        "is_habitable": false
+    },
+    {
+        "name": "Saturn",
+        "type": "Gas Giant",
+        "distance_from_sun_au": 9.58,
+        "is_habitable": false
+    },
+    {
+        "name": "Uranus",
+        "type": "Ice Giant",
+        "distance_from_sun_au": 19.18,
+        "is_habitable": false
+    },
+    {
+        "name": "Neptune",
+        "type": "Ice Giant",
+        "distance_from_sun_au": 30.07,
+        "is_habitable": false
+    }
+]
